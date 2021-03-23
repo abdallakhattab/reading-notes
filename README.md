@@ -14,4 +14,4 @@ here is some things that you must keep it in mind to develop your self!
 
 my name is Abdullah khattab a fresh graduated pharmacist I worked in pharmacies for about 6 months, am married, and looking forward to be a good programmer.  
 
-[Click here to view my picture  😄](blob:https://web.whatsapp.com/fcc1f19b-1b22-48c4-85bc-a18fb7bd9d24)
+[Click here to view my picture  😄](https://github.com/abdallakhattab)
