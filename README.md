@@ -9,7 +9,6 @@ here is some things that you must keep it in mind to develop your self!
 * firsty you must bellef in your self.
 * Think in a positive way Don't discourage yourself.
 * The life is full of challenges, accept those challenges and give the effort to required to overcome them.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### *introducing myself* :-
 
