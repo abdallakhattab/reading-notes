@@ -11,7 +11,7 @@ here is some things that you must keep it in mind to develop your self!
 * The life is full of challenges, accept those challenges and give the effort to required to overcome them.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-###introducing myself :-
+### *introducing myself* :-
 
 my name is Abdullah khattab a fresh graduated pharmacist I worked in pharmacies for about 6 months, am married, and looking forward to be a good programmer.  
 
