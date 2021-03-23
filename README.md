@@ -15,4 +15,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 my name is Abdullah khattab a fresh graduated pharmacist I worked in pharmacies for about 6 months, am married, and looking forward to be a good programmer.  
 
-[my pic](blob:https://web.whatsapp.com/680e639b-c609-4f57-9331-1f3ba11c9884)
+[Click here to view my picture  😄](blob:https://web.whatsapp.com/fcc1f19b-1b22-48c4-85bc-a18fb7bd9d24)
