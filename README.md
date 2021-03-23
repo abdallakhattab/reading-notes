@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Abdalla's reading-notes
 
-You can use the [editor on GitHub](https://github.com/abdallakhattab/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### growth mindset:-
+
+ growth mindset describe's the underlying beliefs people have about learning and intelligence for example when someone belleaves that he can get smarter by studying he will give more effort and time In order to reach his goal(being smarter!),knowing that you are talented is nice, but it's not enoght to develop your skills and abilities and make you someone better than you was, also it give's you a passion for knowledge and knowing more.
+ 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
