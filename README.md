@@ -9,14 +9,14 @@ my name is Abdullah khattab a fresh graduated pharmacist I worked in pharmacies 
 
  # Code 102 Reading Notes
 
-| Assignment  | links              |
-|-------------|--------------------|
-|     1       | [read_1](read_1.md)|
-|     2       | [read_2](read_2.md)|
-|     3       | [read_3](read_3.md)|
-|     4       |[read_4](read_4.md) |
-|     5       |[read_5](read_5.md) |
-|     6       |[read_6](read_6.md) |
+| Assignment  | links                                     |
+|-------------|-------------------------------------------|
+|     1       | [read_1](Code 102 reading notes/read_1.md)|
+|     2       | [read_2](Code 102 reading notes/read_2.md)|
+|     3       | [read_3](Code 102 reading notes/read_3.md)|
+|     4       |[read_4](Code 102 reading notes/read_4.md) |
+|     5       |[read_5](Code 102 reading notes/read_5.md) |
+|     6       |[read_6](Code 102 reading notes/read_6.md) |
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ my name is Abdullah khattab a fresh graduated pharmacist I worked in pharmacies 
 |     1       | [read_1](201read_1.md )|
 |     2       | [read_2](201read_2.md )|
 |     3       | [read_3](201read_3.md) |
-
+|     4       | [read_4](201read_4.md) |
